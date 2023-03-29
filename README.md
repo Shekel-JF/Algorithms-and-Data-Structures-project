@@ -7,7 +7,7 @@ praktyczny dodałem opcję wprowadzenia wielomianów od nowa oraz po każdym obl
 pyta użytkownika, czy chce policzyć wynik metodą hornera. Funkcje zadeklarowałem w pliku
 nagłówkowym poly.h.
 
-## Złożoności obliczeniowe i pamięciowe:
+Złożoności obliczeniowe i pamięciowe:
 
 ## Funkcja add:
 
